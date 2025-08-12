@@ -6,6 +6,7 @@
 	}
 	catch ( e ) {
 		alert ( "부모창이 없습니다."); 
+		alert ( "부모창이 없습니다2."); 
 	}
 	window.close();
 </script>
